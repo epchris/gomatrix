@@ -24,5 +24,3 @@ You're in a room!
 ![Cute Cats](/element_web_room_joined.png)
 
 Any room address you find can be joined this way.  You can find rooms using [MatrixRoom](https://matrixrooms.info/)
-
-## Coming Soon: Level Four: Spaces!
