@@ -6,6 +6,10 @@ eleventyNavigation:
   title: Create an Account!
 ---
 
+# What is Matrix?
+
+Matrix is a chat app, like Slack or Discord, but free from corporate control.  Lets get you started!
+
 # Level One - Create an Account!
 
 Before you can do anything you'll need an account.
